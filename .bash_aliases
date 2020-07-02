@@ -1,0 +1,12 @@
+alias python=python3
+alias pip=pip3
+alias cls=clear
+alias gf="git fetch"
+alias gs="git status"
+alias gp="git push"
+alias gpu="git pull"
+alias gc="git commit"
+alias gcm="git commit -m"
+alias ga="git add"
+alias gaa="git add -A"
+alias gr="git reset"
